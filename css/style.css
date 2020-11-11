@@ -1,0 +1,47 @@
+body{
+  /* Style for "Layer 0" */
+width: 1440px;
+height: 1700px;
+background-color: #e8e8e8;
+grid-template-columns: 33em  3
+}
+.check{
+  height: 15px;
+}
+.block_1{
+ /* Style for "Стилизируй" */
+padding-top: 123px;
+padding-left: 291px;
+height: 16px;
+color: #000000;
+font-family: "Arial MT";
+font-size: 14px;
+font-weight: 400;
+font-style: normal;
+letter-spacing: normal;
+line-height: 40px;
+text-align: left;
+text-transform: uppercase;
+/* Text style for "Стилизируй" */
+font-style: normal;
+letter-spacing: 2.8px;
+line-height: normal;
+}
+.grid_body{
+display: grid;
+
+grid-template-columns: 200px 200px 200px;
+grid-template-rows: 200px 200px 200px;
+}
+.block_2{
+  text-align: center;
+  border: 1px dashed black;
+  padding: 30px;
+}
+.wrapper{
+  border: 1px black ;
+}
+
+.container{
+  
+}
